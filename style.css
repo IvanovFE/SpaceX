@@ -1,0 +1,53 @@
+
+body{
+    background-color: #EFA9AE;
+}
+.div1{
+    text-align: left;
+    background-color: blue;
+    font-family: fantasy;
+    width: 50%;
+    padding: 5px 10px 50px 40px;
+    margin: 50px 0px 50px 0px;
+    border-radius: 25px;
+}
+.div2{
+    font-size: 50px;
+    text-align: right;
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    width: 70%;
+    padding: 5px 10px 50px 40px;
+    margin: 150px 5px 30px 5px;
+    border-radius: 50px;
+}
+.imga{
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    background-image: url(image/01.jpg);
+    background-size: cover;
+    border-radius: 25px;
+}
+.lol{
+    font-size: 20px;
+    line-height: 1.25;
+}
+.imgo{
+    
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    background-image: url(image/02.jpg);
+    background-size: contain;
+    border-radius: 25px;
+}
+.linklol{
+    color: red;
+}
+.linklol2{
+    color: yellow;
+}
+.linklol3{
+    color: green;
+}
